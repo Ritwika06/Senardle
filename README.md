@@ -1,2 +1,2 @@
 # Senardle
-A wordle clone with 6 lettered words
+A wordle clone in terminal with 6 lettered words 
